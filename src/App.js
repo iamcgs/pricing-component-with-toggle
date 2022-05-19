@@ -32,8 +32,9 @@ function App() {
           <span>Monthly</span>
         </div>
       </header>
-      <Cards toggle={enabled} />
-
+      <main>
+        <Cards toggle={enabled} />
+      </main>
       <Footer />
     </>
   );
