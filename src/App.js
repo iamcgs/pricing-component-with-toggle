@@ -4,7 +4,7 @@ import Cards from './components/Cards';
 import Footer from './components/Footer';
 
 function App() {
-  const [enabled, setEnabled] = useState(false);
+  const [enabled, setEnabled] = useState(true);
 
   return (
     <>
