@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <header className="py-16">
-        <h1 className="text-center text-darkGrayishBlue"> Our Pricing</h1>
+        <h1 className="text-center text-grayishBlue"> Our Pricing</h1>
         <div className="mx-auto flex w-[275px] items-center justify-between gap-3 pt-10 text-lightGrayishBlue">
           <span>Annually</span>
           <Switch
